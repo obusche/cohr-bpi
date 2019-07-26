@@ -1,0 +1,60 @@
+{
+    "id": "17893a877b54a8255a1fed8d3416a0bc",
+    "firstname": "Wolfgang",
+    "lastname": "Hemmer-Girod",
+    "email": "Wolfgang.HemmerGirod@coherent.com",
+    "survey": "sales",
+    "date": "2019-02-12",
+    "region": "europe",
+    "productline": "tools",
+    "userdescription": "",
+    "input": {
+        "001": {
+            "mark": "5",
+            "comment": ""
+        },
+        "002": {
+            "mark": "3",
+            "comment": ""
+        },
+        "003": {
+            "mark": "1",
+            "comment": ""
+        },
+        "090": {
+            "bpi": "true",
+            "mark": "7",
+            "comment": ""
+        },
+        "010": {
+            "mark": "1",
+            "comment": "gar keine Antwort, AB nur auf Nachfrage"
+        },
+        "011": {
+            "mark": "1",
+            "comment": "die AB brauchte sehr lange in der Unterschriftenrunde , dies mag jetzt historie sein ;-)"
+        },
+        "012": {
+            "mark": "1",
+            "comment": "34 Wochen f\u00fcr eine CombiLine Advanced mit 3 CNC Achsen, IR Faserlaser und Visionsystem ist schwierig zu vermitteln, Warum dauert die MPS Flex nur 26 Wochen?"
+        },
+        "013": {
+            "mark": "x",
+            "skip": "on",
+            "comment": ""
+        },
+        "020": {
+            "mark": "9",
+            "comment": ""
+        },
+        "021": {
+            "mark": "10",
+            "comment": ""
+        },
+        "022": {
+            "mark": "6",
+            "comment": ""
+        }
+    },
+    "comments1": "Kommunikation mit Kollegen ist gut,\r\naber interne Abl\u00e4ufe sind sehr z\u00e4h\r\n-  Erstellung von Angeboten f\u00fcr CombiLine Advanced\/ MPS dauerte relativ lang\r\nEinlasten von Auftr\u00e4gen dauerte lang\r\n- damit die Erstellung der AB dauert zu lange\r\n- Lieferzeit f\u00fcr Standardprodukte, speziell CombiLine Advanced ist zu lang\r\n- Uebergabe von Auftragsabteilung an Service f\u00fcr IBN ist hakelig, \r\n- kein Automatismus, dass ein Ger\u00e4t mit LT auch Inbetriebgenommen werden muss (ist aber mehr Gef\u00fchl als durch Zahlen untermauert"
+}

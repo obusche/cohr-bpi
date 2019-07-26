@@ -1,0 +1,43 @@
+{
+    "1": {
+        "question": "101",
+        "category": "communication"
+    },
+    "2": {
+        "question": "102",
+        "category": "communication"
+    },
+    "3": {
+        "question": "103",
+        "category": "communication"
+    },
+    "4": {
+        "question": "104",
+        "category": "delivery"
+    },
+    "5": {
+        "question": "105",
+        "category": "delivery"
+    },
+    "6": {
+        "question": "106",
+        "category": "delivery"
+    },
+    "7": {
+        "question": "107",
+        "category": "delivery"
+    },
+    "8": {
+        "question": "108",
+        "category": "product"
+    },
+    "9": {
+        "question": "109",
+        "category": "product"
+    },
+    "10": {
+        "question": "190",
+        "category": "conclusion",
+        "bpi": "true"
+    }
+}

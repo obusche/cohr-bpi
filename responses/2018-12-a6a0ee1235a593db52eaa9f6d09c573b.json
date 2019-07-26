@@ -1,0 +1,60 @@
+{
+    "id": "a6a0ee1235a593db52eaa9f6d09c573b",
+    "firstname": "Simon",
+    "lastname": "Lorbacher",
+    "email": "simon.lorbacher@coherent.com",
+    "survey": "sales",
+    "date": "2018-12-14",
+    "region": "europe",
+    "productline": "standard",
+    "userdescription": "",
+    "input": {
+        "001": {
+            "mark": "10",
+            "comment": ""
+        },
+        "002": {
+            "mark": "10",
+            "comment": ""
+        },
+        "003": {
+            "mark": "10",
+            "comment": ""
+        },
+        "090": {
+            "bpi": "true",
+            "mark": "9",
+            "comment": ""
+        },
+        "010": {
+            "mark": "4",
+            "comment": ""
+        },
+        "011": {
+            "mark": "10",
+            "comment": ""
+        },
+        "012": {
+            "mark": "10",
+            "comment": ""
+        },
+        "013": {
+            "mark": "x",
+            "skip": "on",
+            "comment": ""
+        },
+        "020": {
+            "mark": "10",
+            "comment": ""
+        },
+        "021": {
+            "mark": "10",
+            "comment": ""
+        },
+        "022": {
+            "mark": "10",
+            "comment": ""
+        }
+    },
+    "comments1": ""
+}

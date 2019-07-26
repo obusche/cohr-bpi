@@ -1,0 +1,82 @@
+{
+    "survey": {
+        "name": "Survey Type",
+        "class": "select_head",
+        "options": {
+            "sales": {
+                "display": "Sales",
+                "example": "",
+                "class": "select_option hidden selected"
+            },
+            "service": {
+                "display": "Service",
+                "example": "",
+                "class": "select_option hidden selected"
+            },
+            "customer": {
+                "display": "Customer",
+                "example": "",
+                "class": "select_option hidden selected"
+            },
+            "demo": {
+                "display": "Demo",
+                "example": "",
+                "selected": "false",
+                "class": "select_option hidden"
+            },
+            "no": {
+                "display": "No Survey",
+                "example": "",
+                "selected": "false",
+                "class": "select_option hidden"
+            }
+        }
+    },
+    "productline": {
+        "name": "Productline",
+        "class": "select_head",
+        "options": {
+            "rails": {
+                "display": "Rails",
+                "example": "(e. g. PowerLine, StarFiber)",
+                "class": "select_option hidden selected"
+            },
+            "tools": {
+                "display": "Standard Plus",
+                "example": "(e. g. Easymark, Exact, Combiline)",
+                "class": "select_option hidden selected"
+            },
+            "other": {
+                "display": "Other",
+                "example": "",
+                "class": "select_option hidden"
+            }
+        }
+    },
+    "region": {
+        "name": "Region",
+        "class": "select_head",
+        "options": {
+            "europe": {
+                "display": "Europe",
+                "example": "",
+                "class": "select_option hidden selected"
+            },
+            "northamerica": {
+                "display": "North America",
+                "example": "",
+                "class": "select_option hidden selected"
+            },
+            "asia": {
+                "display": "Asia",
+                "example": "",
+                "class": "select_option hidden selected"
+            },
+            "other": {
+                "display": "Other",
+                "example": "",
+                "class": "select_option hidden selected"
+            }
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "id": "hxy",
+    "firstname": "Oliver",
+    "lastname": "Busche",
+    "email": "oliver@busche.eu.com",
+    "survey": "sales",
+    "date": "2019-01-27",
+    "region": "europe",
+    "productline": "rails",
+    "userdescription": "",
+    "input": {
+        "001": {
+            "mark": "9",
+            "comment": ""
+        },
+        "002": {
+            "mark": "x",
+            "skip": "on",
+            "comment": ""
+        },
+        "003": {
+            "mark": "10",
+            "comment": ""
+        },
+        "090": {
+            "bpi": "true",
+            "mark": "9",
+            "comment": ""
+        },
+        "010": {
+            "mark": "7",
+            "comment": ""
+        },
+        "011": {
+            "mark": "8",
+            "comment": ""
+        },
+        "012": {
+            "mark": "9",
+            "comment": ""
+        },
+        "013": {
+            "mark": "9",
+            "comment": ""
+        },
+        "020": {
+            "mark": "8",
+            "comment": ""
+        },
+        "021": {
+            "mark": "7",
+            "comment": ""
+        },
+        "022": {
+            "mark": "4",
+            "comment": ""
+        }
+    },
+    "comments1": ""
+}

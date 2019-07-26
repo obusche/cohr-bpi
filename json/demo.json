@@ -1,0 +1,48 @@
+{
+    "1": {
+        "question": "001",
+        "category": "quotation"
+    },
+    "2": {
+        "question": "002",
+        "category": "quotation"
+    },
+    "3": {
+        "question": "003",
+        "category": "quotation"
+    },
+    "4": {
+        "question": "010",
+        "category": "order"
+    },
+    "5": {
+        "question": "011",
+        "category": "order"
+    },
+    "6": {
+        "question": "012",
+        "category": "order"
+    },
+    "7": {
+        "question": "013",
+        "category": "order"
+    },
+    "8": {
+        "question": "020",
+        "category": "product"
+    },
+    "9": {
+        "question": "021",
+        "category": "product"
+    },
+    "10": {
+        "question": "022",
+        "category": "product"
+    },
+    "11": {
+        "question": "090",
+        "category": "conclusion",
+        "bpi": "true"
+    }
+
+}

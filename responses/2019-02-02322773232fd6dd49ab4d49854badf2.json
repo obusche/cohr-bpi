@@ -1,0 +1,61 @@
+{
+    "id": "02322773232fd6dd49ab4d49854badf2",
+    "firstname": "Franck",
+    "lastname": "Cevaer",
+    "email": "Franck.Cevaer@coherent.com",
+    "survey": "sales",
+    "date": "2019-02-12",
+    "region": "europe",
+    "productline": "tools",
+    "userdescription": "",
+    "input": {
+        "001": {
+            "mark": "7",
+            "comment": ""
+        },
+        "002": {
+            "mark": "7",
+            "comment": ""
+        },
+        "003": {
+            "mark": "x",
+            "skip": "on",
+            "comment": ""
+        },
+        "090": {
+            "bpi": "true",
+            "mark": "x",
+            "skip": "on",
+            "comment": ""
+        },
+        "010": {
+            "mark": "3",
+            "comment": ""
+        },
+        "011": {
+            "mark": "3",
+            "comment": ""
+        },
+        "012": {
+            "mark": "5",
+            "comment": ""
+        },
+        "013": {
+            "mark": "3",
+            "comment": ""
+        },
+        "020": {
+            "mark": "5",
+            "comment": ""
+        },
+        "021": {
+            "mark": "5",
+            "comment": ""
+        },
+        "022": {
+            "mark": "5",
+            "comment": ""
+        }
+    },
+    "comments1": "First of all, I am not in the sale team, that is the reason, I skiped some items.\r\nI am technical sales support, and manage projects, I  am also in SSG Team (Sale Support Group). \r\nMy point of view is that currently, all project I have in charge are not in time, parts are not available, and need to much time to get them, administrative procedure are too heavy, we are not enough reactive with customer, in industrial laser department."
+}

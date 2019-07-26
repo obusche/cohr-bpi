@@ -1,0 +1,59 @@
+{
+    "id": "300c882c5f26a34dd7219af0b135cee7",
+    "firstname": "Marco",
+    "lastname": "Zorloni",
+    "email": "Marco.Zorloni@coherent.com",
+    "survey": "sales",
+    "date": "2019-02-11",
+    "region": "europe",
+    "productline": "tools",
+    "userdescription": "",
+    "input": {
+        "001": {
+            "mark": "5",
+            "comment": ""
+        },
+        "002": {
+            "mark": "4",
+            "comment": ""
+        },
+        "003": {
+            "mark": "4",
+            "comment": ""
+        },
+        "090": {
+            "bpi": "true",
+            "mark": "5",
+            "comment": ""
+        },
+        "010": {
+            "mark": "5",
+            "comment": ""
+        },
+        "011": {
+            "mark": "3",
+            "comment": ""
+        },
+        "012": {
+            "mark": "3",
+            "comment": ""
+        },
+        "013": {
+            "mark": "2",
+            "comment": ""
+        },
+        "020": {
+            "mark": "8",
+            "comment": ""
+        },
+        "021": {
+            "mark": "9",
+            "comment": ""
+        },
+        "022": {
+            "mark": "9",
+            "comment": ""
+        }
+    },
+    "comments1": "I am very confident that the new organization in the BU thank to the new tendering team will improve my sale experience and the customer satisfaction. I am starting to work with the tendering team just one week ago but the first feeling is very positive"
+}

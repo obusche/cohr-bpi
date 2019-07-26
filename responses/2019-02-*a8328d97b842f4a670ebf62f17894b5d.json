@@ -1,0 +1,60 @@
+{
+    "id": "*a8328d97b842f4a670ebf62f17894b5d",
+    "firstname": "anonymous",
+    "lastname": "anonymous",
+    "email": "anonymous",
+    "survey": "sales",
+    "date": "2019-02-07",
+    "region": "europe",
+    "productline": "rails",
+    "userdescription": "",
+    "anonymous": "on",
+    "input": {
+        "001": {
+            "mark": "10",
+            "comment": ""
+        },
+        "002": {
+            "mark": "7",
+            "comment": ""
+        },
+        "003": {
+            "mark": "10",
+            "comment": ""
+        },
+        "090": {
+            "bpi": "true",
+            "mark": "7",
+            "comment": ""
+        },
+        "010": {
+            "mark": "2",
+            "comment": ""
+        },
+        "011": {
+            "mark": "4",
+            "comment": ""
+        },
+        "012": {
+            "mark": "3",
+            "comment": ""
+        },
+        "013": {
+            "mark": "6",
+            "comment": ""
+        },
+        "020": {
+            "mark": "5",
+            "comment": ""
+        },
+        "021": {
+            "mark": "8",
+            "comment": ""
+        },
+        "022": {
+            "mark": "4",
+            "comment": ""
+        }
+    },
+    "comments1": ""
+}

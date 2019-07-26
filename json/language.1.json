@@ -1,0 +1,301 @@
+{   
+    "language": {
+        "en": "English",
+        "de": "German"
+    },
+    "title": {
+        "en": "Business Partner Satisfaction Survey",
+        "de": "Business Partner Umfrage"
+    },
+    "survey": {
+        "en": "Survey",
+        "de": "Umfrage"
+    },
+    "welcome": {
+        "en": "<h3>ILS Global Tools Internal Customer Satisfaction Survey</h3><p>We'd like to ask you as one of our Coherent internal customers to give us feedback to help guiding our process improvement initiatives. To do that you just have to answer a couple of questions about your experience with Coherent ILS - Gobal Tools!</p><p>It will only take two minutes!</p>",
+        "de": "<h3>ILS Global Tools Kundenzufriedenheitsumfrage interne Kunden</h3><p>Wir bitten Sie als einer unserer Coherent-internen Kunden um Ihr Feedback. Sie können damit dazu beitragen in unserem Prozessverbesserungsprogramm die richtigen Prioritäten zu setzen. Dazu müssen Sie lediglich einige einfache Fragen über Ihre Erfahrung mit Coherent ILS Global Tools beantworten.</p><p>Es wird nur zwei Minuten dauern!</p>"
+    },
+    "legende": {
+        "en": "1 = very negative, 7-8 = requirements fulfilled, 10 = very positive",
+        "de": "1 = sehr negativ, 7-8 = Anforderungen erfüllt, 10 = sehr positiv"
+    },
+    "anonymous": {
+        "en": "This survey is not anonymous. If you want to remove your identity you can click the ckeckbox below.",
+        "de": "Diese Umfrage ist nicht anonym. Wenn Sie Ihre Identität entfernen wollen, können Sie dies hier tun."
+    },
+    "make_anonymous": {
+        "en": "Make anonymous",
+        "de": "Identität entfernen"
+    },
+    "communication": {
+        "en": "Communication",
+        "de": "Kommunikation"
+    },
+    "delivery": {
+        "en": "Delivery",
+        "de": "Lieferung"
+    },
+    "quotation": {
+        "en": "Quote",
+        "de": "Angebot"
+    },
+    "order": {
+        "en": "Order",
+        "de": "Auftrag"
+    },
+    "conclusion": {
+        "en": "Conclusion",
+        "de": "Fazit"
+    },
+    "product": {
+        "en": "Product",
+        "de": "Produkt"
+    },
+    "comments": {
+        "en": "Comments",
+        "de": "Anregungen"
+    },
+    "next": {
+        "en": "Next",
+        "de": "Weiter"
+    },
+    "back": {
+        "en": "Back",
+        "de": "Zurück"
+    },
+    "standard": {
+        "en": "Standard",
+        "de": "Standard"
+    },
+    "rails": {
+        "en": "Rails",
+        "de": "Rails"
+    },
+    "tools": {
+        "en": "Standard Plus",
+        "de": "Standard Plus"
+    },
+    "europe": {
+        "en": "Europe",
+        "de": "Europe"
+    },
+    "northamerica": {
+        "en": "North America",
+        "de": "North America"
+    },
+    "asia": {
+        "en": "Asia",
+        "de": "Asia"
+    },
+    "sales": {
+        "en": "Sales",
+        "de": "Sales"
+    },
+    "service": {
+        "en": "Service",
+        "de": "Service"
+    },
+    "customer": {
+        "en": "Customer",
+        "de": "Kunde"
+    },
+    "demo": {
+        "en": "Demo",
+        "de": "Demo"
+    },
+    "other": {
+        "en": "Other",
+        "de": "Andere"
+    },
+    "contactus": {
+        "en": "Contact",
+        "de": "Kontakt"
+    },
+    "001": {
+        "en": "How satified are you with our technical and applictions support in quoting to your customers?",
+        "de": "Wie zufrieden sind sie mit unserer technischer und anwendungsbezogener Unterstützung in der Angebotserstellung?",
+        "short": "Quote: Technical support"
+    },
+    "002": {
+        "en": "How satisfied are you with our timely response the quotation process?",
+        "de": "Wie zufrieden sind Sie mit unserer Antwortdauer im Angebotsprozess?",
+        "short": "Quote: Timely response"
+    },
+    "003": {
+        "en": "Did we keep you updated about the status of your quotation request?",
+        "de": "Haben wir sie über den Status Ihrer Angebotsanfrage auf dem Laufenden halten?",
+        "short": "Quote: Status update"
+    },
+    "010": {
+        "en": "How satisfied are you with the timely response on the orders placed by your customers?",
+        "de": "Wie zufrieden sind sie mit der Antwortdauer auf eingegangene Kundenaufträge?",
+        "short": "Order: Timely response"
+    },
+    "011": {
+        "en": "Did we keep you and the customer up to date about the order status in a timely manner?",
+        "de": "Wurden Sie und Ihr Kunde in ausreichendem Maße und zeitnah über den Auftragsstatus informiert?",
+        "short": "Order: Status update"
+    },
+    "012": {
+        "en": "Did our delivery time committments fulfill customer needs?",
+        "de": "Erfüllten unsere Liefertermin die Kundenerwartungen?",
+        "short": "Order: Delivery Time"
+    },
+    "013": {
+        "en": "How well did we keep our delivery time committments?",
+        "de": "Wie gut haben wir unsere Lieferterminverspechen eingehalten?",
+        "short": "Order: On-Time"
+    },
+    "020": {
+        "en": "Did our product arrive at the customer complete and in good quality?",
+        "de": "Haben unsere Produkte den Kunden vollständig und in guter Qualität erreicht?",
+        "short": "Product: Quality"
+    },
+    "021": {
+        "en": "How well does the performance of our products meet the customer requirements?",
+        "de": "Wie gut erfüllen unsere Produkte die Kundenanforderungen?",
+        "short": "Product: Performance"
+    },
+    "022": {
+        "en": "How do you think is the innavation level of the Global Tools products?",
+        "de": "Wie innovativ empfinden Sie die Global Tools Produktpalette?",
+        "short": "Product: Innovation"
+    },
+    "090": {
+        "en": "How comfortable do you feel selling ILS Global Tools products?",
+        "de": "Wie gut fühlen Sie sich dabei ILS Global Tools Produkte zu verkaufen?",
+        "short": "Conclusion: Sales"
+    },
+    "101": {
+        "en": "Have you been informed in time about delivery schedules of new instrument orders? ",
+        "de": "Wurden Sie rechtzeitig über Liefertermine neuer Anlagen informiert?",
+        "short": "Comm: Delivery Schedule"
+    },
+    "102": {
+        "en": "Have you been informed about the delivery content and special arrangements agreed on with the customer?",
+        "de": "Wurden Sie über den Lieferumfang und ggf. besondere Absprachen mit dem Kunden informiert?",
+        "short": "Comm: Special Content"
+    },
+    "103": {
+        "en": "Has the customer been informed beforehand about technical requirements for the instrument like power supply and water/air connections?",
+        "de": "Wurde der Kunde vorab über technische Anforderungen wie Strom-, Wasser- und Druckluft-Anschlüüsse informiert?",
+        "short": "Comm: Technical Requirements"
+    },
+    "104": {
+        "en": "Have the confirmed delivery dates been kept so that service job din't have to be rescheduled?",
+        "de": "Wurden die Liefertermine eingehalten, so dass Termine für Serviceeinsätze gehalten werden konnten?",
+        "short": "Delivery: On-Time"
+    },
+    "105": {
+        "en": "Have spare parts been delivered to you or to the customer in acceptable delivery times?",
+        "de": "Wurden Ersatzteile in angemessenen Lieferzeiten zu Ihnen oder den Kunden geliefert?",
+        "short": "Delivery: Spare Parts"
+    },
+    "106": {
+        "en": "Have you been able to fulfill the customer expectation regarding lead times for on-site support?",
+        "de": "Waren Sie in der Lage in für den Kunden angemessene Zeit im Servicefall vor Ort zu sein?",
+        "short": "Delivery: On-Site Support"
+    },
+    "107": {
+        "en": "Did you get responses from the technical support teams in the factories in an acceptable timeframe?",
+        "de": "Wurden Ihre Anfragen an den technischen Support in den Fabriken in einem akzeptablen Zeitrahmen beantwortet?",
+        "short": "Delivery: Tech-Support"
+    },
+    "108": {
+        "en": "Have the parts or instruments been delivered in a good quality?",
+        "de": "Wurden Ersatzteile oder Anlagen in guter Qualität ausgeliefert?",
+        "short": "Product: Quality"
+    },
+    "109": {
+        "en": "Are you satisfied with the technical support delivered by the factories?",
+        "de": "Sind Sie zufrieden mit der technischen unterstützung von den Produktionsstandorten?",
+        "short": "Product: Tech-Support"
+    },
+    "190": {
+        "en": "What do you think how satisfied are our customers with our service performance?",
+        "de": "Wie zufrieden glauben Sie sind unsere Kunden mit uns als Servicedienstleister?",
+        "short": "Conclusion: Service"
+    },
+    "comments1": {
+        "en": "Comments",
+        "de": "Bemerkungen"
+    },
+    "comments0": {
+        "en": "Please, give us some more detail about your experience with us. What positive experiences did you have and where do we have to improve?",
+        "de": "Bitte schildern Sie uns Ihre Erfahrung mit uns. Was ist besonders gut gelaufen und wo müssen wir uns verbesser?"
+    },
+    "comment-negative": {
+        "en": "You are particularly unhappy with our performance in this area. Please, can you give us some more detail? We will use this to improve our processes.",
+        "de": "Sie sind mit unserer Leistung in diesem Punkt besonders unzufrieden. Können Sie uns hierzu mehr Informationen geben? Wir werden diese dazu nutzen unsere Prozesse zu verbessern." 
+    },
+    "thanks": {
+        "en": "Your feedback has been saved successfully!<br>Thank you very much for participating in this survey. You feedback is very appreciated and taken seriously. We hope to hear from you next time again",
+        "de": "Ihr Feedback wurde erfolgreich gespeichert!<br>Vielen Dank, dass Sie an dieser Umfrage teilgenommen haben. Wir schätzen Ihr Feedback und werden es sehr ernst nehmen."
+    },
+    "final": {
+        "en": "Thanks",
+        "de": "Danke"
+    },
+    "salutation-informal": {
+        "male": {
+            "en": "Dear",
+            "de": "Hallo"
+        },
+        "female": {
+            "en": "Dear",
+            "de": "Hallo"
+        }
+    },
+    "salutation-formal": {
+        "male": {
+            "en": "Dear",
+            "de": "Sehr geehrter Herr"
+        },
+        "female": {
+            "en": "Dear",
+            "de": "Sehr geehrte Frau"
+        }
+    },
+    "participate1": {
+        "sales": {
+            "en": "I'd like to ask you to do a quick customer satisfaction survey to help us to improve our processes and products and become a better partner in delivering Tools and Rails solutions to our customers. The link below will lead you to a survey that won't take longer than 2 minutes.",
+            "de": "ich würde mich freuen, wenn du unsere Prozessverbesserungsinitiativen in Global Tools mit deinem Feedback unterstützen könntest. Über den Link unten kommst du auf eine kurze Kundenzufriedenheitsumfrage, die dich nicht mehr als 2 Minuten kosten wird. Uns aber liefert sie sehr wertvolle Informationen darüber, woran wir arbeiten müssen, um ein besserer Partner darin zu werden, unseren Kunden Rails und Tools-Lösungen zu liefern."
+        },
+        "service": {
+            "en": "I'd like to ask you to do a quick customer satisfaction survey to help us to improve our processes and products and become a better partner in delivering Tools and Rails solutions to our customers. The link below will lead you to a survey that won't take longer than 2 minutes.",
+            "de": "ich würde mich freuen, wenn du unsere Prozessverbesserungsinitiativen in Global Tools mit deinem Feedback unterstützen könntest. Über den Link unten kommst du auf eine kurze Kundenzufriedenheitsumfrage, die dich nicht mehr als 2 Minuten kosten wird. Uns aber liefert sie sehr wertvolle Informationen darüber, woran wir arbeiten müssen, um ein besserer Partner darin zu werden, unseren Kunden Rails und Tools-Lösungen zu liefern."
+        },
+        "customer": {            
+            "en": "I'd like to ask you to do a quick customer satisfaction survey to help us - Coherent Global Tools - to improve our processes and products and become a better partner in delivering laser welding, cutting and marking solutions to our customers. The link below will lead you to a survey that won't take longer than 2 minutes.",
+            "de": "ich würde mich freuen, wenn Sie unsere Prozessverbesserungsinitiativen in Global Tools mit deinem Feedback unterstützen könntest. Über den Link unten kommen Sie auf eine kurze Kundenzufriedenheitsumfrage, die Sie nicht mehr als 2 Minuten kosten wird. Uns aber liefert sie sehr wertvolle Informationen darüber, woran wir arbeiten müssen, um ein besserer Partner für Laser-Lösungen für das Markieren, Schweißen und Schneiden zu werden."       
+        }
+    },
+    "participate2": {
+        "sales": {
+            "en": "Thank you for helping us in better serving our customers.",
+            "de": "Vielen Dank für die Unterstützung."
+        },
+        "service": {
+            "en": "Thank you for helping us in better serving our customers.",
+            "de": "Vielen Dank für die IUnterstützung."
+        },
+        "customer": {
+            "en": "Thank you for your valuable feedback.",
+            "de": "Vielen Dank für Ihr Feedback."
+        }
+    },
+    "participate3": {
+        "sales": {
+            "en": "Regards\rOliver Busche\rDirector Operations",
+            "de": "Oliver Busche\rDirector Operations"
+        },
+        "service": {
+            "en": "Regards<br>Oliver Busche<br>Director Operations",
+            "de": "Oliver Busche<br>Director Operations"
+        },
+        "customer": {
+            "en": "Regards<br>Oliver Busche<br>Director Operations",
+            "de": "Oliver Busche<br>Director Operations"
+        }
+    }
+}

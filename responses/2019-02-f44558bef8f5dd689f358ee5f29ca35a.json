@@ -1,0 +1,60 @@
+{
+    "id": "f44558bef8f5dd689f358ee5f29ca35a",
+    "firstname": "anonymous",
+    "lastname": "anonymous",
+    "email": "anonymous",
+    "survey": "sales",
+    "date": "2019-02-11",
+    "region": "europe",
+    "productline": "tools",
+    "userdescription": "",
+    "anonymous": "on",
+    "input": {
+        "001": {
+            "mark": "2",
+            "comment": ""
+        },
+        "002": {
+            "mark": "2",
+            "comment": ""
+        },
+        "003": {
+            "mark": "1",
+            "comment": ""
+        },
+        "090": {
+            "bpi": "true",
+            "mark": "3",
+            "comment": ""
+        },
+        "010": {
+            "mark": "1",
+            "comment": "keine Antwort bekommen, nur auf eigene Nachfrage..."
+        },
+        "011": {
+            "mark": "1",
+            "comment": "nein"
+        },
+        "012": {
+            "mark": "2",
+            "comment": ""
+        },
+        "013": {
+            "mark": "2",
+            "comment": ""
+        },
+        "020": {
+            "mark": "2",
+            "comment": ""
+        },
+        "021": {
+            "mark": "5",
+            "comment": ""
+        },
+        "022": {
+            "mark": "2",
+            "comment": ""
+        }
+    },
+    "comments1": "die meisten nicht Abl\u00e4ufe sind schlecht kommuniziert,\r\n\r\nKundentermine im Labor mit langer Laufzeit im Voraus erst m\u00f6glich\r\n\r\nviele Mitarbeiter keine \"Support-Einstellung\", Antworten mit \" dass musst Du soo machen ...\" helfen nicht weiter\r\n\r\nPrinzipielle MA-Schulung, \"wer zahlt unser Gehalt\" dringend notwendig..."
+}

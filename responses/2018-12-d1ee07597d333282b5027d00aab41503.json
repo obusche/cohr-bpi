@@ -1,0 +1,60 @@
+{
+    "id": "d1ee07597d333282b5027d00aab41503",
+    "firstname": "Claudia",
+    "lastname": "Barthel",
+    "email": "claudiabarthel@coherent.com",
+    "survey": "sales",
+    "date": "2018-12-17",
+    "region": "northamerica",
+    "productline": "tools",
+    "userdescription": "Finance Manager Global Tools",
+    "input": {
+        "001": {
+            "mark": "10",
+            "comment": ""
+        },
+        "002": {
+            "mark": "9",
+            "comment": ""
+        },
+        "003": {
+            "mark": "10",
+            "comment": ""
+        },
+        "090": {
+            "bpi": "true",
+            "mark": "8",
+            "comment": ""
+        },
+        "010": {
+            "mark": "3",
+            "comment": ""
+        },
+        "011": {
+            "mark": "2",
+            "comment": ""
+        },
+        "012": {
+            "mark": "2",
+            "comment": ""
+        },
+        "013": {
+            "mark": "x",
+            "skip": "on",
+            "comment": ""
+        },
+        "020": {
+            "mark": "9",
+            "comment": ""
+        },
+        "021": {
+            "mark": "10",
+            "comment": ""
+        },
+        "022": {
+            "mark": "5",
+            "comment": ""
+        }
+    },
+    "comments1": ""
+}
